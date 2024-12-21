@@ -246,4 +246,4 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 1. **LiquidCrystal I2C**
 
 ### Desarrollado por 
-VICTOR EMANUEL CABAÑAS MONTES
+[VICTOR EMANUEL CABAÑAS MONTES](https://github.com/Victor-Cabanas-99)
