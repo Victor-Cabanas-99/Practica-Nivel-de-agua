@@ -121,7 +121,7 @@ lcd.clear();
   lcd.print("Tanque: 75%");
   delay(2000);
 }
-else if(safetyDistance>=11 && safetyDistance<=45) //50%
+else if(safetyDistance>=11 && safetyDistance<=20) //50%
 {
   digitalWrite(led1, LOW);
   digitalWrite(led2, LOW);
