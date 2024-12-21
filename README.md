@@ -213,11 +213,11 @@ delay (2000);
 ```
 2. Instalar la libreria de **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20LIBRERIA.PNG?raw=true)
 
 3. Hacer la conexion de **LCD 16X2 2IC**, el **HC-SR04 ULTRASONIC DISTANCE SENSOR**  y los **Relay Module** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20CONEXCION.PNG?raw=true)
 
 ### Instrucciónes de operación
 
@@ -228,10 +228,19 @@ delay (2000);
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20RESULTADO%201.PNG?raw=true)
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20RESULTADO%202.PNG?raw=true)
+## Nivel 90%
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20RESULTADO%203.PNG?raw=true)
+## Nivel 75%
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20RESULTADO%204.PNG?raw=true)
+## Nivel 50%
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20RESULTADO%205.PNG?raw=true)
+## Nivel 25%
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20RESULTADO%206.PNG?raw=true)
+## Nivel 0%
+![](https://github.com/Victor-Cabanas-99/Practica-Nivel-de-agua/blob/main/PRACTICA%20NIVEL%20DE%20AGUA%20RESULTADO%207.PNG?raw=true)
+
 ## Librerías
 
 1. **LiquidCrystal I2C**
